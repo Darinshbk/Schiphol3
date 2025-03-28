@@ -1,0 +1,1 @@
+knmi = pd.read_excel("./KNMI_data_schiphol.xlsx", skiprows=41)
