@@ -1,0 +1,12 @@
+requests
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+folium
+streamlit_folium
+branca
+jinja2
+plotly
+openpyxl
